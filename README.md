@@ -61,6 +61,6 @@ Strong communication skills, able to effectively present designs and products to
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"> </code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-plain.svg"> </code>
 
-[![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cursedxp)](https://github.com/anuraghazra/github-readme-stats)
+//[![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cursedxp)](https://github.com/anuraghazra/github-readme-stats)
 
 
