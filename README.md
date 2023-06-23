@@ -25,7 +25,7 @@ Strong communication skills, able to effectively present designs and products to
     <td>
       <img src="https://github.com/cursedxp/smallfresh-client/blob/main/Screenshot.png?raw=true" style="object-fit: cover;" />
       <h3><b>SmallFresh ClientSide App</b></h3>
-      <p>Small Fresh is a user-friendly front-end React application that empowers small businesses to sell products online effortlessly. Our platform simplifies listing, inventory management, and order processing, enabling businesses to expand their reach without the hassle of technical setup.</p>
+      <p>Fullstack web application for effortless online product selling. Built with HTML, Tailwind Css, React, Node.js, Express.js, MongoDB, and Git, it simplifies listing, inventory management, and order processing.</p>
       <a href="https://smallfresh.netlify.app/">Preview</a>
     </td>
     <td>
