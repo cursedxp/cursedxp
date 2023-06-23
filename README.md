@@ -11,7 +11,7 @@ Strong communication skills, able to effectively present designs and products to
     <td>
       <img src="https://raw.githubusercontent.com/cursedxp/product-feedback-app/main/preview.jpg" style="object-fit: cover;" />   
       <h3><b>Product Feedback Application</b></h3>
-      <p>The Product Feedback Application is a user-friendly web platform for managing feedback requests. It offers sorting, filtering, commenting, replies, and upvoting features to enhance collaboration and streamline feedback management.</p>
+      <p>User-friendly responsive web app for streamlined feedback management. Uses HTML, SCSS, React, JSON and Git for sorting, filtering, commenting, replies, and upvoting.</p>
       <a href="https://cursedxp.github.io/product-feedback-app/">Preview</a>
     </td>
     <td>
