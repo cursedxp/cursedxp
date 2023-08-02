@@ -24,7 +24,7 @@ Strong communication skills, able to effectively present designs and products to
   <tr>
     <td>
       <img src="https://github.com/cursedxp/smallfresh-client/blob/main/Screenshot.png?raw=true" style="object-fit: cover;" />
-      <h3><b>SmallFresh ClientSide App</b></h3>
+      <h3><b>SmallFresh fullstack e-commerce platform</b></h3>
       <p>Fullstack web application for effortless online product selling. Built with HTML, Tailwind Css, React, Node.js, Express.js, MongoDB, and Git, it simplifies listing, inventory management, and order processing.</p>
       <a href="https://smallfresh.netlify.app/">Preview</a>
     </td>
