@@ -1,6 +1,6 @@
 ### Hi there, I'm Anil 👋
 
-Frontend Developer and Experienced Product Designer with expertise in React, MongoDB, Node, ExpressJS, HTML, CSS, and JavaScript. Skilled in creating designs that meet user needs and business objectives. Proven success with web and mobile projects, UX problem-solving, and improving user experience through research.
+Frontend Developer and Experienced UX Designer with expertise in React, MongoDB, Node, ExpressJS, HTML, CSS, and JavaScript. Skilled in creating designs that meet user needs and business objectives. Proven success with web and mobile projects, UX problem-solving, and improving user experience through research.
 
 Strong communication skills, able to effectively present designs and products to both internal and external stakeholders. Continuously strives to improve the user experience through a blend of quantitative and qualitative research methods.
 
