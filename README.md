@@ -4,63 +4,31 @@ Frontend Developer and Experienced UX Designer with expertise in React, MongoDB,
 
 Strong communication skills, able to effectively present designs and products to both internal and external stakeholders. Continuously strives to improve the user experience through a blend of quantitative and qualitative research methods.
 
-## Projects
+## Tech Stack
 
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/cursedxp/product-feedback-app/main/preview.jpg" style="object-fit: cover;" />   
-      <h3><b>Product Feedback Application</b></h3>
-      <p>User-friendly responsive web app for streamlined feedback management. Uses HTML, SCSS, React, JSON and Git for sorting, filtering, commenting, replies, and upvoting.</p>
-      <a href="https://cursedxp.github.io/product-feedback-app/">Preview</a>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/cursedxp/devjobs-web-app/main/screenshot.png"  style="object-fit: cover;" />  
-      <h3><b>Jobs Board Application</b></h3>
-      <p>The Jobs Board Application is a responsive web platform that retrieves job data from a local file, offering filtering options and detailed job information for users to apply to relevant positions.</p>
-      <a href="https://cursedxp.github.io/devjobs-web-app/">Preview</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/cursedxp/smallfresh-client/blob/main/Screenshot.png?raw=true" style="object-fit: cover;" />
-      <h3><b>SmallFresh fullstack e-commerce platform</b></h3>
-      <p>Fullstack web application for effortless online product selling. Built with HTML, Tailwind Css, React, Node.js, Express.js, MongoDB, and Git, it simplifies listing, inventory management, and order processing.</p>
-      <a href="https://smallfresh.netlify.app/">Preview</a>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/cursedxp/single-page-developer-portfolio/main/screenshot.png" style="object-fit: cover;" />   
-      <h3><b>Single Page Developer Portfolio App</b></h3>
-      <p>The Single-Page Portfolio is a visually appealing and responsive web application that showcases work, skills, and achievements. It includes error handling for form submission and offers an engaging user experience with interactive elements and adaptive layout.</p>
-      <a href="https://cursedxp.github.io/single-page-developer-portfolio/">Preview</a>
-    </td>
-  </tr>
-</table>
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-## Contact
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-<a href="https://www.linkedin.com/in/anilozsoy/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" width="25">
-</a>
+### Design Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
-## Language and Tools
+### Tools & Technologies
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sketch/sketch-original.svg"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-plain.svg"> </code>
+## Let's Connect
 
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilozsoy/)
