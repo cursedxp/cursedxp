@@ -8,8 +8,8 @@ Strong communication skills, able to effectively present designs and products to
 ![Profile Views](https://komarev.com/ghpvc/?username=cursedxp&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/cursedxp?style=social)](https://github.com/cursedxp)
 
-[![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilozsoy&show_icons=true&theme=radical)](https://github.com/anilozsoy)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilozsoy&layout=compact&theme=radical)](https://github.com/anilozsoy)
+[![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cursedxp&show_icons=true&theme=radical)](https://github.com/cursedxp)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursedxp&layout=compact&theme=radical)](https://github.com/cursedxp)
 
 ## Tech Stack
 
