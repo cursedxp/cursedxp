@@ -4,6 +4,13 @@ Frontend Developer and Experienced UX Designer with expertise in React, MongoDB,
 
 Strong communication skills, able to effectively present designs and products to both internal and external stakeholders. Continuously strives to improve the user experience through a blend of quantitative and qualitative research methods.
 
+## GitHub Statistics
+![Profile Views](https://komarev.com/ghpvc/?username=anilozsoy&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/anilozsoy?style=social)](https://github.com/anilozsoy)
+
+[![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilozsoy&show_icons=true&theme=radical)](https://github.com/anilozsoy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilozsoy&layout=compact&theme=radical)](https://github.com/anilozsoy)
+
 ## Tech Stack
 
 ### Frontend
@@ -32,3 +39,7 @@ Strong communication skills, able to effectively present designs and products to
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilozsoy/)
+
+
+
+
